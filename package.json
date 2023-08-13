@@ -1,7 +1,7 @@
 {
   "name": "retrolab",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mobile application for conducting an easy and relaxed retrospective in a playful way",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve  --env port=3000",
@@ -13,7 +13,7 @@
     "lint:scss:fix": "npx stylelint \"**/*.scss\" --fix"
   },
   "keywords": [],
-  "author": "",
+  "author": "LumberJack",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.4.5",
