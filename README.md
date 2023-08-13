@@ -17,7 +17,7 @@
 - Mobx
 - Axios
 
-## Линетры
+## Линтеры
 
 - esLint
 - styleLint
